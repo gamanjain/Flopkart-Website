@@ -1,0 +1,73 @@
+/*  NAVIGATION BAR  */
+
+
+/*  MAIN CONTENT  */
+
+
+.prods{
+	text-align: center;
+	text-shadow: 5px;
+	font-size: 30px;
+	color: black;
+}
+div.card{
+	margin-bottom: 20px;
+}
+a.link_phots : hover{
+	box-shadow: 2px solid blue;
+	color: red;
+}
+a.link_phots{
+	text-decoration: none;
+	color: black;
+	box-sizing: border-box;
+	margin:20px 5px;
+	border: 1px solid;
+	border-color: black;
+}
+.items{
+	height: 300px;
+	width: 100%;
+	padding-top: 10px;
+	background:url('images/Iphone_XII_Pro.png') no-repeat;
+	background-position: center;
+}
+.items_2{
+	height: 300px;
+	width: 100%;
+	padding-top: 20px;
+	background:url('images/Iphone_XII.png') no-repeat;
+	background-position: center;
+}
+.prod_dets{  /*  Span defining product names  */
+	text-align:left;
+	padding:10px 50px 10px 50px;
+}
+
+
+/*  END OF MAIN CONTENT  */
+
+
+
+
+
+
+/*  MEDIA QUERIES  */
+
+@media (min-width: 1200px){
+
+}
+
+@media (min-width: 992px) && (max-width: 1199px){
+
+}
+
+@media (min-width: 768px) && (max-width: 991px){
+
+}
+
+@media (max-width: 767px){
+	hr{
+		width:50%;
+	}
+}
