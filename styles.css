@@ -1,0 +1,168 @@
+/*  NAVIGATION BAR  */
+
+
+/*  MAIN CONTENT  */
+
+
+.prods{
+	text-align: center;
+	text-shadow: 5px;
+	font-size: 30px;
+	color: black;
+	text-transform: uppercase;
+}
+div.card{
+	margin-bottom: 20px;
+}
+a.link_phots : hover{
+	box-shadow: 2px solid blue;
+	color: red;
+}
+a.link_phots{
+	text-decoration: none;
+	color: black;
+	box-sizing: border-box;
+	margin:20px 5px;
+	border: 1px solid;
+	border-color: black;
+}
+.items_1{
+	background:url('images/Iphone_XII.png') no-repeat;
+}
+.items_2{
+	background:url('images/Airpods_Pro.png') no-repeat;
+}
+.items_3{
+	background:url('images/Macbook_Air.png') no-repeat;
+}
+.items_4{
+	background:url('images/Peter_England_Shirt.png') no-repeat;
+}
+.items_5{
+	background:url('images/Levis_Pant.png') no-repeat;
+}
+.items_6{
+	background:url('images/Rayban_Glasses.png') no-repeat;
+}
+.items_7{
+	background:url('images/RC_Car.png') no-repeat;
+}
+.items_8{
+	background:url('images/Nike_Football.png') no-repeat;
+}
+.items_9{
+	background:url('images/SG_Cricket_Bat.png') no-repeat;
+}
+.items_10{
+	background:url('images/Pen_Pack.png') no-repeat;
+}
+.items_11{
+	background:url('images/Classmate_Notebook.png') no-repeat;
+}
+.items_12{
+	background:url('images/Pencil_and_Eraser.png') no-repeat;
+}
+.item{
+	height: 300px;
+	width: 100%;
+	padding-top: 20px;
+	background-position: center;
+	margin-top: 20px;
+}
+.prod_dets{  /*  Span defining product names  */
+	text-align:center;
+	padding:10px 0 10px 10px;
+}
+.prod_img{
+	height: 300px;
+	padding-top: 30px;
+	margin-left: 40%;
+	background-position: center;
+	margin-bottom: 10px;
+}
+.prod_head{
+	text-align: center;
+}
+.prod_name{
+	text-align: center;
+	font-size: 20px;
+}
+.prod_price{
+	text-align: center;
+	font-size: 20px;
+}
+.prod_img{
+	
+}
+.buttons{
+	text-align:center;
+}
+.button1{
+	color: white;
+	background-color: #323232;
+	height: 50px;
+	width:150px;
+}
+.button2{
+	color: white;
+	background-color: #323232;
+	height: 50px;
+	width:150px;
+	margin-bottom: 50px;
+}
+.button1:hover {
+  background-color: #4CAF50;
+  color: white;
+  text-decoration: none;
+}
+.button2:hover {
+  background-color: #4CAF50;
+  color: white;
+  text-decoration: none;
+}
+
+/*  END OF MAIN CONTENT  */
+
+
+
+/*  FOOTER  */
+
+.footer{
+	text-transform: uppercase;
+	font-size: 20px;
+	text-align: center;
+	text-shadow: 3px solid blue;
+}
+.tiles{
+	border-right: 2px solid black;
+	border-left: 2px solid black;
+}
+.icons-1{
+	background: url('images/insta-icon.png') no-repeat;
+	height: 64px;
+	width: 100%;
+	padding-top: 10px;
+	background-position: center;
+	margin-bottom: 10px;
+}
+.icons-2{
+	background: url('images/github-icon.png') no-repeat;
+	height: 64px;
+	width: 100%;
+	padding-top: 10px;
+	background-position: center;
+	margin-bottom: 10px;
+}
+.icons-3{
+	background: url('images/linkedin-icon.png') no-repeat;
+	height: 64px;
+	width: 100%;
+	padding-top: 10px;
+	background-position: center;
+	margin-bottom: 10px;
+}
+
+/*  END OF FOOTER  */
+
+
+
